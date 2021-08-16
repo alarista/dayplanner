@@ -12,7 +12,7 @@ An application that helps in your day planning so busy people can organize thems
 -Application working video
 
 ## Usage
-
+Simply open the index.html file on your favorite browser.
 
 ## Building blocks 
 Javascript
