@@ -9,7 +9,6 @@ An application that helps in your day planning so busy people can organize thems
 -Building blocks
 -Author
 -Credits and Shoutouts
--Application working video
 
 ## Usage
 Simply open the index.html file on your favorite browser.
@@ -25,7 +24,3 @@ github: alarista
 
 ## Credits and Shoutouts
 As always, huge shoutout to Yazmin Tinoco (Yazmin30-bot), without her help I wouldn't have known where to start.
-
-## Application working video
-
-
